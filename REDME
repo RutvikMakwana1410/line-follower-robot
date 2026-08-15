@@ -1,8 +1,8 @@
-# 🤖 Line Follower Robot
+#  Line Follower Robot
 
 An Arduino-based **Line Follower Robot** that uses IR sensors to detect the track and an **L298N motor driver** to control the motors.
 
-## 🔧 Components
+##  Components
 
 * Arduino Uno
 * IR Sensors
@@ -10,11 +10,11 @@ An Arduino-based **Line Follower Robot** that uses IR sensors to detect the trac
 * DC Motors
 * Battery
 
-## ⚙️ Working
+##  Working
 
 The IR sensors detect the line and send signals to the Arduino. Based on the sensor readings, Arduino controls the motors to keep the robot moving along the track.
 
-## 🚀 Features
+##  Features
 
 * Automatic line following
 * Simple and efficient design
